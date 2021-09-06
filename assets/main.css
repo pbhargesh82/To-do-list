@@ -1,0 +1,33 @@
+body {
+  font-family: 'Inconsolata', monospace;
+}
+
+.container {
+  margin-top: 100px;
+}
+
+#header {
+  font-size: 300%;
+}
+
+#add-task {
+  padding-top: 6px;
+}
+
+li {
+  max-width: 60ch;
+}
+
+li:hover {
+  cursor: pointer;
+  background-color: #efefef;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+#taskInput {
+  margin-bottom: 15px;
+}
+/*# sourceMappingURL=main.css.map */
